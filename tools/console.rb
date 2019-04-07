@@ -3,6 +3,6 @@ require_relative '../config/environment.rb'
 
 
 
-binding.pry
+#binding.pry
 
 puts "Bob Ross rules."
